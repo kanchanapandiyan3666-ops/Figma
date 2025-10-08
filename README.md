@@ -117,6 +117,8 @@ root.mainloop()
 
 ## OUTPUT:
 
+![alt text](<Screenshot 2025-10-08 132522.png>)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
